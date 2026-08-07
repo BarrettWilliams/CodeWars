@@ -8,7 +8,7 @@ A repository dedicated to tracking my daily problem-solving progress on [Codewar
 
 * **Commit Frequency:** Every single day without fail.
 * **Primary Language:** JavaScript (ES6+).
-* **Current Rank:** 5 kyu 🥋
+* **Current Rank:** 4 kyu 🥋
 
 ---
 
